@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.title, .bulbImg{
+    display: flex;
+    justify-content: center;
+    margin-top: 3rem;
+}
+.title h2{
+    text-transform: uppercase;
+    text-align: center;
+
+}
+.bulbImg img{
+    width: auto;
+    height: 50vh;
+}
